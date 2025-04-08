@@ -1,1 +1,1 @@
-https://anon-kodi.github.io/LookMovieFix/
+[app](./lookmovie2.zip)
